@@ -1,0 +1,6 @@
+{'from': 'fred', 'to': 'geogre', 'prize': 1}
+{'from': 'germiona', 'to': 'ron', 'prize': 3, 'prehash': '2579a1358346a1089a2b686fa88af71b0d122246173a90430e03c36f'}
+{'from': 'harry', 'to': 'jinny', 'prize': 4, 'prehash': 'dc90e728684d0bd07a1aedf5cd51e1c33040505f54df59c2903942c3'}
+{'from': 'dean', 'to': 'sheamus', 'prize': 5, 'prehash': '025e62ab0f177ef8aa4fc7cb0234b9764bbc547c4fcfcdd41ef736f5'}
+
+hashes: ['2579a1358346a1089a2b686fa88af71b0d122246173a90430e03c36f','dc90e728684d0bd07a1aedf5cd51e1c33040505f54df59c2903942c3','025e62ab0f177ef8aa4fc7cb0234b9764bbc547c4fcfcdd41ef736f5'
